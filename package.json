@@ -3,7 +3,7 @@
   "description": "Progressive Web App starter",
   "version": "0.2.0",
   "author": "Nathan Knowler <nathan@knowler.me>",
-  "repository": "github:knowler/pwa-starter",
+  "repository": "github:knowler/create-pwa",
   "license": "MIT",
   "bin": {
     "create-pwa": "cli.js"
