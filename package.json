@@ -1,7 +1,7 @@
 {
   "name": "@knowler/create-pwa",
   "description": "Progressive Web App starter",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": "Nathan Knowler <nathan@knowler.me>",
   "repository": "github:knowler/create-pwa",
   "license": "MIT",
