@@ -3,7 +3,7 @@ const init = require('initit')
 
 const [ name ] = process.argv.slice(2)
 
-const template = 'knowler/create-pwa/template/react'
+const template = 'knowler/create-pwa/templates/react'
 
 init({ name, template })
   .then(res => {
